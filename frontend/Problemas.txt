@@ -1,0 +1,6 @@
+Habria que solucionar lo de NGROK
+al pareer se descarga una cosa y se activa el puerto 8080 de java para crear una pipe 
+Asi funcionaria
+PERO, desde la pagina de NGROK no puedo bajar nada.
+https://ngrok.com/download
+Si puedo descagar esto, en teoria se carga el puerto en la terinal y listo?
